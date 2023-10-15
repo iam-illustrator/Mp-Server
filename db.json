@@ -1,0 +1,62 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "leo",
+      "url": "https://images.deccanherald.com/deccanherald%2Fimport%2Fsites%2Fdh%2Ffiles%2Farticleimages%2F2023%2F02%2F06%2Ffile7orv16rel9crf8bsho1-1188395-1675681687.jpg?auto=format%2Ccompress&fmt=webp&fit=max&w=1200",
+      "embedlink": "https://www.youtube.com/embed/Po3jStA673E"
+    },
+    {
+      "id": "2",
+      "caption": "chaleya",
+      "url": "https://c.saavncdn.com/026/Chaleya-From-Jawan-Hindi-2023-20230814014337-500x500.jpg",
+      "embedlink": "https://www.youtube.com/embed/VAdGW7QDJiU"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "music",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "chaleya",
+          "url": "https://c.saavncdn.com/026/Chaleya-From-Jawan-Hindi-2023-20230814014337-500x500.jpg",
+          "embedlink": "https://www.youtube.com/embed/VAdGW7QDJiU"
+        },
+        {
+          "id": "1",
+          "caption": "leo",
+          "url": "https://images.deccanherald.com/deccanherald%2Fimport%2Fsites%2Fdh%2Ffiles%2Farticleimages%2F2023%2F02%2F06%2Ffile7orv16rel9crf8bsho1-1188395-1675681687.jpg?auto=format%2Ccompress&fmt=webp&fit=max&w=1200",
+          "embedlink": "https://www.youtube.com/embed/Po3jStA673E"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "history": [
+    {
+      "caption": "leo",
+      "embedlink": "https://www.youtube.com/embed/Po3jStA673E",
+      "timeStamp": "10/13/2023, 08:35:21 PM",
+      "id": 1
+    },
+    {
+      "caption": "leo",
+      "embedlink": "https://www.youtube.com/embed/Po3jStA673E",
+      "timeStamp": "10/15/2023, 03:54:08 PM",
+      "id": 2
+    },
+    {
+      "caption": "chaleya",
+      "embedlink": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "timeStamp": "10/15/2023, 03:54:18 PM",
+      "id": 3
+    },
+    {
+      "caption": "chaleya",
+      "embedlink": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "timeStamp": "10/15/2023, 03:54:33 PM",
+      "id": 4
+    }
+  ]
+}
